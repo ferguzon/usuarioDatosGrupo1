@@ -54,7 +54,9 @@
                 </tr>
                 <tr>
                     <td style="width: 305px">&nbsp;</td>
-                    <td>&nbsp;</td>
+                    <td>
+                        <asp:Button ID="btnRegresar" runat="server" OnClick="btnRegresar_Click" Text="Regresar" />
+                    </td>
                 </tr>
             </table>
         </asp:View>
