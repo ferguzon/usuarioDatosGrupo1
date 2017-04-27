@@ -1,0 +1,12 @@
+e:\google drive\mis documentos\visual studio 2015\Projects\Usuario datos\Entidad\bin\Debug\Entidad.dll.config
+e:\google drive\mis documentos\visual studio 2015\Projects\Usuario datos\Entidad\bin\Debug\Entidad.dll
+e:\google drive\mis documentos\visual studio 2015\Projects\Usuario datos\Entidad\bin\Debug\Entidad.pdb
+e:\google drive\mis documentos\visual studio 2015\Projects\Usuario datos\Entidad\bin\Debug\EntityFramework.dll
+e:\google drive\mis documentos\visual studio 2015\Projects\Usuario datos\Entidad\bin\Debug\EntityFramework.SqlServer.dll
+e:\google drive\mis documentos\visual studio 2015\Projects\Usuario datos\Entidad\bin\Debug\EntityFramework.xml
+e:\google drive\mis documentos\visual studio 2015\Projects\Usuario datos\Entidad\bin\Debug\EntityFramework.SqlServer.xml
+e:\google drive\mis documentos\visual studio 2015\Projects\Usuario datos\Entidad\bin\Debug\es\EntityFramework.resources.dll
+e:\google drive\mis documentos\visual studio 2015\Projects\Usuario datos\Entidad\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+e:\google drive\mis documentos\visual studio 2015\Projects\Usuario datos\Entidad\obj\Debug\Entidad.csprojResolveAssemblyReference.cache
+e:\google drive\mis documentos\visual studio 2015\Projects\Usuario datos\Entidad\obj\Debug\Entidad.dll
+e:\google drive\mis documentos\visual studio 2015\Projects\Usuario datos\Entidad\obj\Debug\Entidad.pdb
