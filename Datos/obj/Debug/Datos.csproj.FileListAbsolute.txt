@@ -12,3 +12,17 @@ e:\google drive\mis documentos\visual studio 2015\Projects\Usuario datos\Datos\b
 e:\google drive\mis documentos\visual studio 2015\Projects\Usuario datos\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
 e:\google drive\mis documentos\visual studio 2015\Projects\Usuario datos\Datos\obj\Debug\Datos.dll
 e:\google drive\mis documentos\visual studio 2015\Projects\Usuario datos\Datos\obj\Debug\Datos.pdb
+E:\Descargas\usuarioDatos\Datos\bin\Debug\Datos.dll.config
+E:\Descargas\usuarioDatos\Datos\bin\Debug\Datos.dll
+E:\Descargas\usuarioDatos\Datos\bin\Debug\Datos.pdb
+E:\Descargas\usuarioDatos\Datos\bin\Debug\Entidad.dll
+E:\Descargas\usuarioDatos\Datos\bin\Debug\EntityFramework.dll
+E:\Descargas\usuarioDatos\Datos\bin\Debug\EntityFramework.SqlServer.dll
+E:\Descargas\usuarioDatos\Datos\bin\Debug\Entidad.pdb
+E:\Descargas\usuarioDatos\Datos\bin\Debug\EntityFramework.xml
+E:\Descargas\usuarioDatos\Datos\bin\Debug\EntityFramework.SqlServer.xml
+E:\Descargas\usuarioDatos\Datos\bin\Debug\es\EntityFramework.resources.dll
+E:\Descargas\usuarioDatos\Datos\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+E:\Descargas\usuarioDatos\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+E:\Descargas\usuarioDatos\Datos\obj\Debug\Datos.dll
+E:\Descargas\usuarioDatos\Datos\obj\Debug\Datos.pdb
