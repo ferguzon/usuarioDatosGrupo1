@@ -31,7 +31,35 @@ namespace Datos
                 throw err;
             }
 
-        }
+            }
+
+        public void ingresarUsuarioDatos(Entidad.Usuarios usuario)
+        {
+
+            Entidad.CursoNetEntities dc = null;
+            Entidad.Usuarios nuevoUsuario = null;
+
+            try
+            {
+
+                // guardamos el usuario que recibimos de la clase de negocio
+
+                dc = new Entidad.CursoNetEntities();
+                nuevoUsuario = dc.Usuarios.Add(usuario);
+
+                dc.SaveChanges();
+
+            }
+            catch (Exception err)
+            {
+
+                throw err;
+
+            } // fin del try
+
+
+        } // fin del método ingresarUsuarioDatos
+
 
     }
 }
