@@ -14,3 +14,19 @@ e:\google drive\mis documentos\visual studio 2015\Projects\Usuario datos\Negocio
 e:\google drive\mis documentos\visual studio 2015\Projects\Usuario datos\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
 e:\google drive\mis documentos\visual studio 2015\Projects\Usuario datos\Negocio\obj\Debug\Negocio.dll
 e:\google drive\mis documentos\visual studio 2015\Projects\Usuario datos\Negocio\obj\Debug\Negocio.pdb
+E:\Descargas\usuarioDatos\Negocio\bin\Debug\Negocio.dll.config
+E:\Descargas\usuarioDatos\Negocio\bin\Debug\Negocio.dll
+E:\Descargas\usuarioDatos\Negocio\bin\Debug\Negocio.pdb
+E:\Descargas\usuarioDatos\Negocio\bin\Debug\Datos.dll
+E:\Descargas\usuarioDatos\Negocio\bin\Debug\Entidad.dll
+E:\Descargas\usuarioDatos\Negocio\bin\Debug\EntityFramework.dll
+E:\Descargas\usuarioDatos\Negocio\bin\Debug\EntityFramework.SqlServer.dll
+E:\Descargas\usuarioDatos\Negocio\bin\Debug\Datos.pdb
+E:\Descargas\usuarioDatos\Negocio\bin\Debug\Entidad.pdb
+E:\Descargas\usuarioDatos\Negocio\bin\Debug\EntityFramework.xml
+E:\Descargas\usuarioDatos\Negocio\bin\Debug\EntityFramework.SqlServer.xml
+E:\Descargas\usuarioDatos\Negocio\bin\Debug\es\EntityFramework.resources.dll
+E:\Descargas\usuarioDatos\Negocio\bin\Debug\es\EntityFramework.SqlServer.resources.dll
+E:\Descargas\usuarioDatos\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+E:\Descargas\usuarioDatos\Negocio\obj\Debug\Negocio.dll
+E:\Descargas\usuarioDatos\Negocio\obj\Debug\Negocio.pdb

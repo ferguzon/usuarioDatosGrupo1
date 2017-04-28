@@ -18,9 +18,10 @@ namespace Datos
             try
             {
 
-                dc = new Entidad.CursoNetEntities()
-                USUARIO = dc.Usuarios.Where(u => u.login == login).FirstOrDefault();
+                dc = new Entidad.CursoNetEntities();
+                usuario = dc.Usuarios.Where(u => u.login == login).FirstOrDefault();
 
+                return usuario;
                
 
             }
